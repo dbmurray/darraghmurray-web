@@ -6,11 +6,9 @@ slug: [the-land-is-a-map-VOTD]
 categories: [Tableau]
 tags: [Tableau]
 ---
-Some quickfire reflections on being awarded Viz of the Day: The Land is A Map
+Last week I was fortunate enough to be [awarded my first ever 'Viz of the Day'](https://public.tableau.com/en-us/gallery/land-map-place-names-indigenous-australian-origin?tab=viz-of-the-day&type=viz-of-the-day) (or VOTD). 
 
-Last week I was fortunate enough to be awarded my first ever Tableau's 'Viz of the Day' (or VOTD). 
-
-If you don't have a clue about what I'm talking about, Tableau - the purveyor of fine data visualisation software - regularly select a visualisation from the community to showcase most weekdays. Typically, VOTD often showcases an interesting new technique or visualisations that provide information on current news or relevant historical events or generates fascinating new insights.
+If you don't have a clue about what I'm talking about, Tableau - the purveyor of fine data visualisation software - regularly [select a visualisation from the community to showcase most weekdays](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day). Typically, VOTD often showcases an interesting new technique or visualisations that provide information on current news or relevant historical events or generates fascinating new insights.
 
 In the case of my visualisation - The Land is a Map - it fell squarely in the latter category. This visualisation is essentially a map of places within Australia that have, or are derived from, the language and culture of Indigenous Australians. 
 
@@ -20,7 +18,7 @@ In saying all this, I acknowledge that many places are missing from the map, and
 
 While the visualisation itself is nothing groundbreaking (it's just a map, after all), the content may not precisely have precedent. I haven't been able to find an existing visual resource that has the same scope (though I'll link below to a few relevant articles, sites that may have overlaps). 
 
-While I haven't been overt about it, I had been hopeful of being awarded VOTD at some point. I'm not a prolific Tableau Public publisher, and I still think I've got a long way to go to be as good a designer as many in the datafam, but I had been hoping of snagging the sought after VOTD honour. So as you can imagine, I was pretty happy to wake up and see the VOTD email come through with my name attached!
+While I don't think I had been explicit in the past, I had been hopeful of being awarded VOTD at some point. I'm not a prolific Tableau Public publisher by any means, and I still think I've got a long way to go to be as good a designer as many in the datafam, but still, I had been hoping of snagging the sought after VOTD honour. So as you can imagine, I was pretty happy to wake up and see the VOTD email come through with my name attached!
 
 However, what I think has made me more proud is that since publishing, I've had many folks (strangers and friends) reach out and say how much they enjoyed it and that they have learned something about their local area. That is the best feeling - the feeling that some work you spent your weekend (and free time) putting together has impacted others. 
 
