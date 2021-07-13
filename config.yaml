@@ -14,8 +14,3 @@ menu:
       url: https://github.com/dbmurray
     - name: Twitter
       url: https://twitter.com/dbfmurray
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
