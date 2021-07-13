@@ -6,9 +6,11 @@ slug: [the-land-is-a-map-VOTD]
 categories: [Tableau]
 tags: [Tableau]
 ---
-Last week I was fortunate enough to be [awarded my first ever 'Viz of the Day'](https://public.tableau.com/en-us/gallery/land-map-place-names-indigenous-australian-origin?tab=viz-of-the-day&type=viz-of-the-day) (or VOTD). 
+Last week I was fortunate enough to be [awarded my first ever 'Viz of the Day'](https://public.tableau.com/en-us/gallery/land-map-place-names-indigenous-australian-origin?tab=viz-of-the-day&type=viz-of-the-day "Link to my VOTD award") (or VOTD). 
 
-If you don't have a clue about what I'm talking about, Tableau - the purveyor of fine data visualisation software - regularly [select a visualisation from the community to showcase most weekdays](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day). Typically, VOTD often showcases an interesting new technique or visualisations that provide information on current news or relevant historical events or generates fascinating new insights.
+![Image of The Land is a Map Tableau visualisation](images/The Land is a Map.png)
+
+If you don't have a clue about what I'm talking about, Tableau - the purveyor of fine data visualisation software - regularly [select a visualisation from the community to showcase most weekdays](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day "Tableau's Viz of the Day gallery"). Typically, VOTD often showcases an interesting new technique or visualisations that provide information on current news or relevant historical events or generates fascinating new insights.
 
 In the case of my visualisation - The Land is a Map - it fell squarely in the latter category. This visualisation is essentially a map of places within Australia that have, or are derived from, the language and culture of Indigenous Australians. 
 
