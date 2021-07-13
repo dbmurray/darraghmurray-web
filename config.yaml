@@ -2,3 +2,20 @@ theme: "hugo-PaperMod"
 baseURL: https://darraghmurray.netlify.app/
 languageCode: en-us
 title: Darragh Murray
+permalinks:
+  post: /:year/:month/:day/:slug/
+menu:
+  main:
+    - name: About
+      url: /about/
+    - name: Tableau
+      url: https://public.tableau.com/profile/darragh.murray#!/
+    - name: GitHub
+      url: https://github.com/dbmurray
+    - name: Twitter
+      url: https://twitter.com/dbfmurray
+  
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
