@@ -2,18 +2,3 @@ theme: "hugo-PaperMod"
 baseURL: https://darraghmurray.netlify.app/
 languageCode: en-us
 title: Darragh Murray
-
-menu:
-    main:
-        - identifier: Tableau
-          name: Tableau Public
-          url: https://public.tableau.com/profile/darragh.murray#!/
-          weight: 10
-        - identifier: Github
-          name: Github
-          url: https://github.com/dbmurray
-          weight: 20
-        - identifier: Twitter
-          name: twitter
-          url: https://twitter.com/dbfmurray
-          weight: 30
