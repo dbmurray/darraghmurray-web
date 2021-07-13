@@ -6,7 +6,7 @@ slug: [the-land-is-a-map-VOTD]
 categories: [Tableau]
 tags: [Tableau]
 ---
-Last week I was fortunate enough to be [awarded my first ever 'Viz of the Day'](https://public.tableau.com/en-us/gallery/land-map-place-names-indigenous-australian-origin?tab=viz-of-the-day&type=viz-of-the-day) (or VOTD). 
+Last week I was fortunate enough to be [awarded my first ever 'Viz of the Day'](https://public.tableau.com/en-us/gallery/land-map-place-names-indigenous-australian-origin?tab=viz-of-the-day&type=viz-of-the-day) (or VOTD). The more expansive (and I think better version) of the visualisation [can be found on my Tableau Public profile](https://public.tableau.com/views/TheLandisaMap-PlacenamesofIndigenousAustralianorigin/TheLandisaMap?:language=en-US&:display_count=n&:origin=viz_share_link "The Land is a Map visualisation"). 
 
 ![A image showing The Land is a Map Tableau Visualisation](images/the-land-is-a-map.png)
 
@@ -14,7 +14,7 @@ If you don't have a clue about what I'm talking about, Tableau - the purveyor of
 
 In the case of my visualisation - The Land is a Map - it fell squarely in the latter category. This visualisation is essentially a map of places within Australia that have, or are derived from, the language and culture of Indigenous Australians. 
 
-The visualisation allowed the viewer to scan over areas of Australia and find out what towns or geographic features (like mountains, rivers or beaches) had names that came from Indigenous culture. This viz was highly relevant given that I published it during NAIDOC Week, a week that celebrates the culture of Indigenous peoples in Australia. 
+The visualisation allowed the viewer to scan over areas of Australia and find out what towns or geographic features (like mountains, rivers or beaches) had names that came from Indigenous culture. This viz was highly relevant given that I published it during [NAIDOC Week](https://www.naidoc.org.au/ "NAIDOC Week"), a week that celebrates the culture of Indigenous peoples in Australia. 
 
 In saying all this, I acknowledge that many places are missing from the map, and this is primarily due to the quality of the source used to construct the underlying dataset. 
 
