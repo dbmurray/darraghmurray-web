@@ -1,7 +1,7 @@
 theme: "hugo-PaperMod"
 baseURL: https://darraghmurray.netlify.app/
 languageCode: en-us
-title: "Darragh Murray""
+title: Darragh Murray
 permalinks:
   post: /:year/:month/:day/:slug/
 menu:
@@ -14,7 +14,7 @@ menu:
       url: https://github.com/dbmurray
     - name: Twitter
       url: https://twitter.com/dbfmurray
-
+  
 markup:
   goldmark:
     renderer:
