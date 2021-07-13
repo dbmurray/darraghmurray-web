@@ -6,26 +6,24 @@ slug: [the-land-is-a-map-VOTD]
 categories: [Tableau]
 tags: [Tableau]
 ---
+Some quickfire reflections on being awarded Viz of the Day: The Land is A Map
 
+Last week I was fortunate enough to be awarded my first ever Tableau's 'Viz of the Day' (or VOTD). 
 
-```r
-summary(Orange)
-```
+If you don't have a clue about what I'm talking about, Tableau - the purveyor of fine data visualisation software - regularly select a visualisation from the community to showcase most weekdays. Typically, VOTD often showcases an interesting new technique or visualisations that provide information on current news or relevant historical events or generates fascinating new insights.
 
-```
-##  Tree       age         circumference  
-##  3:7   Min.   : 118.0   Min.   : 30.0  
-##  1:7   1st Qu.: 484.0   1st Qu.: 65.5  
-##  5:7   Median :1004.0   Median :115.0  
-##  2:7   Mean   : 922.1   Mean   :115.9  
-##  4:7   3rd Qu.:1372.0   3rd Qu.:161.5  
-##        Max.   :1582.0   Max.   :214.0
-```
+In the case of my visualisation - The Land is a Map - it fell squarely in the latter category. This visualisation is essentially a map of places within Australia that have, or are derived from, the language and culture of Indigenous Australians. 
 
+The visualisation allowed the viewer to scan over areas of Australia and find out what towns or geographic features (like mountains, rivers or beaches) had names that came from Indigenous culture. This viz was highly relevant given that I published it during NAIDOC Week, a week that celebrates the culture of Indigenous peoples in Australia. 
 
-```
-## Warning: `guides(<scale> = FALSE)` is deprecated. Please use `guides(<scale> =
-## "none")` instead.
-```
+In saying all this, I acknowledge that many places are missing from the map, and this is primarily due to the quality of the source used to construct the underlying dataset. 
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+While the visualisation itself is nothing groundbreaking (it's just a map, after all), the content may not precisely have precedent. I haven't been able to find an existing visual resource that has the same scope (though I'll link below to a few relevant articles, sites that may have overlaps). 
+
+While I haven't been overt about it, I had been hopeful of being awarded VOTD at some point. I'm not a prolific Tableau Public publisher, and I still think I've got a long way to go to be as good a designer as many in the datafam, but I had been hoping of snagging the sought after VOTD honour. So as you can imagine, I was pretty happy to wake up and see the VOTD email come through with my name attached!
+
+However, what I think has made me more proud is that since publishing, I've had many folks (strangers and friends) reach out and say how much they enjoyed it and that they have learned something about their local area. That is the best feeling - the feeling that some work you spent your weekend (and free time) putting together has impacted others. 
+
+That's why I strive to improve my data visualisation skills continually - it's the best way I know of being able to create work that may have meaning in the world. 
+
+PS. Much of the work behind this viz was done using R, which I've been continually experimenting with over the last six months. I'm planning to write a tutorial/explainer soon on how I use R to geocode all these locations from the Wikipedia data I used as the source. So stay tuned.
