@@ -2,3 +2,18 @@ theme: "hugo-PaperMod"
 baseURL: https://darraghmurray.netlify.app/
 languageCode: en-us
 title: Darragh Murray
+
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: twitter
+          name: twitter
+          url: https://twitter.com/dbfmurray
+          weight: 30
