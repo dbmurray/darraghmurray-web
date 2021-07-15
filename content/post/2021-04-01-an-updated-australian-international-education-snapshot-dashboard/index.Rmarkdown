@@ -8,7 +8,7 @@ categories:
 tags:
   - Tableau
   - International Education
-  - '#intled'
+  - Dashboards
 ---
 ![](images/international-education-dashboard.png)
 
