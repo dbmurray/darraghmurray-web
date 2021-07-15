@@ -2,8 +2,3 @@ theme: "hugo-PaperMod"
 baseURL: https://darraghmurray.netlify.app/
 languageCode: en-us
 title: Darragh Murray
-
-menu:
-  home: "Home"
-  url = "https://darraghmurray.netlify.app/"
-  
