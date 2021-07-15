@@ -47,8 +47,8 @@ While PowerQuery and Tableau Prep can process these files, the cleaning flow too
 
 Here's some example code that quickly allows me to load two large text files, remove unneeded columns and then merge them. 
 
-```r
-library(Tidyverse)
+```r {linenos=inline}
+library(tidyverse)
 library(readr)
 
 # Read in population data covering the years 2020 through 2050, skipping unneeded columns
